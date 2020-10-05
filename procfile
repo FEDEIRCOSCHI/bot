@@ -1,1 +1,4 @@
 Worker: node index.js
+"scripts": {
+    "start": "index.js"
+}
